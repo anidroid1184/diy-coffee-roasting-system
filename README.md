@@ -1,6 +1,6 @@
 # Trilladora de Cartago - Coffee Roaster Monitor
 
-![Miniatura del Proyecto](./assets/minuatura.jpg)
+![Miniatura del Proyecto](./assets/miniatura.jpg)
 
 [🇪🇸 Español](#español) | [🇬🇧 English](#english)
 
@@ -18,7 +18,7 @@ Solución económica, robusta y de código abierto diseñada para el monitoreo e
 * **Compatibilidad:** Envío de datos por puerto serial para integración con software de gestión y registro de tuestes (como Artisan).
 
 ### 🎥 Video y Funcionamiento del Sistema
-Puedes ver el video de demostración y funcionamiento del sistema dentro de la carpeta [`assets/`](./assets/).
+Puedes ver el video de demostración y funcionamiento del sistema dentro de la carpeta [`assets/`](./assets/test_roaster.mp4).
 
 ### 🛠️ Hardware Utilizado
 * **Microcontrolador:** Arduino Uno.
@@ -48,7 +48,7 @@ An economical, robust, and open-source solution designed for real-time temperatu
 * **Compatibility:** Serial port data transmission for integration with roast logging software (such as Artisan).
 
 ### 🎥 System Operation & Video
-You can watch the system operation and demonstration video inside the [`assets/`](./assets/) folder.
+You can watch the system operation and demonstration video inside the [`assets/`](./assets/test_roaster.mp4) folder.
 
 ### 🛠️ Hardware Used
 * **Microcontroller:** Arduino Uno.
